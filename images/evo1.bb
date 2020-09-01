@@ -13,6 +13,7 @@ CORE_OS = " \
     term-prompt \
     tzdata \
     u-boot-scr \
+    libubootenv-bin \
     swupdate \
     swupdate-www \
     swupdate-tools \
